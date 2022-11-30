@@ -3,3 +3,10 @@
 /Users/srikarpoladi/Downloads/01-contact-book/Database/obj/Debug/net6.0/Database.AssemblyInfoInputs.cache
 /Users/srikarpoladi/Downloads/01-contact-book/Database/obj/Debug/net6.0/Database.AssemblyInfo.cs
 /Users/srikarpoladi/Downloads/01-contact-book/Database/obj/Debug/net6.0/Database.csproj.CoreCompileInputs.cache
+/Users/srikarpoladi/Downloads/01-contact-book/Database/bin/Debug/net6.0/Database.deps.json
+/Users/srikarpoladi/Downloads/01-contact-book/Database/bin/Debug/net6.0/Database.dll
+/Users/srikarpoladi/Downloads/01-contact-book/Database/bin/Debug/net6.0/Database.pdb
+/Users/srikarpoladi/Downloads/01-contact-book/Database/obj/Debug/net6.0/Database.dll
+/Users/srikarpoladi/Downloads/01-contact-book/Database/obj/Debug/net6.0/refint/Database.dll
+/Users/srikarpoladi/Downloads/01-contact-book/Database/obj/Debug/net6.0/Database.pdb
+/Users/srikarpoladi/Downloads/01-contact-book/Database/obj/Debug/net6.0/ref/Database.dll
