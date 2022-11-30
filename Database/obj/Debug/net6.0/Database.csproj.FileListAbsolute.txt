@@ -1,0 +1,5 @@
+/Users/srikarpoladi/Downloads/01-contact-book/Database/obj/Debug/net6.0/Database.csproj.AssemblyReference.cache
+/Users/srikarpoladi/Downloads/01-contact-book/Database/obj/Debug/net6.0/Database.GeneratedMSBuildEditorConfig.editorconfig
+/Users/srikarpoladi/Downloads/01-contact-book/Database/obj/Debug/net6.0/Database.AssemblyInfoInputs.cache
+/Users/srikarpoladi/Downloads/01-contact-book/Database/obj/Debug/net6.0/Database.AssemblyInfo.cs
+/Users/srikarpoladi/Downloads/01-contact-book/Database/obj/Debug/net6.0/Database.csproj.CoreCompileInputs.cache
